@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.images {
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+.columns {
+    display: flex;
+justify-content: space-between;}
+.column {
+    width: 200px;
+}
+h2 {
+    width: 200px;
+}       
